@@ -9,7 +9,7 @@ Dependencies required for locally running the online tool are :
 3. pandas
 4. numpy
 
-Terminal command to run application in a browser
+Terminal command to run the application in a browser
 ```
 streamlit run app1.py
 ```
