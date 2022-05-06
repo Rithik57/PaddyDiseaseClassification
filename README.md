@@ -10,4 +10,6 @@ Dependencies required for locally running the online tool are :
 4. numpy
 
 To run the application in the browser :
+```
 streamlit run app1.py
+```
